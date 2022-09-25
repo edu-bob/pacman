@@ -1,7 +1,6 @@
-Pacman for GTR01 terminals
+Pacman for GTR01 terminals (formerly known as BBN BitGraphs)
 
 Bob Brown
-RIACS
 
 Makefiles aren't in great shape - they clean out all .o's between makes.  I should use
 a scheme for naming .o files for different versions.
